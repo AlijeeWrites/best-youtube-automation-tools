@@ -50,10 +50,10 @@ Here are the features InVideo AI offers according to the official InVideo model 
 - **Auto subtitles:** captions generated and synced automatically.  
 - **Brand kit:** set fonts, colors, and logos once and apply to every project.  
 - **Batch creation:** make multiple videos at once.  
-- **Sora 2 and Veo 3.1 access:** InVideo AI includes built‑in access to powerful video models like **OpenAI’s Sora 2 and Google Veo 3.1** directly within its video model selection tools. :contentReference[oaicite:0]{index=0}  
+- **Sora 2 and Veo 3.1 access:** InVideo AI includes built‑in access to powerful video models like OpenAI’s Sora 2 and Google Veo 3.1 directly within its video model selection tools. 
 - **Magic Box:** edit your video using plain‑language commands like “change voice to Australian accent” or “replace scene 2 with beach footage.”
 
-📢 **Important Update:** You might have seen news that OpenAI is shutting down its standalone Sora app and web tool. OpenAI’s Sora service has been discontinued, and many creators are moving to tools like InVideo that keep Sora within their own workflows. :contentReference[oaicite:1]{index=1}  
+📢 **Important Update:** You might have seen news that OpenAI is shutting down its standalone Sora app and web tool. OpenAI’s Sora service has been discontinued, and many creators are moving to tools like InVideo that keep Sora within their own workflows. 
 Because InVideo AI is an official partner, you can still access Sora‑based generation directly inside the InVideo editor while standalone Sora tools are no longer viable in 2026.
 
 👉 [Start creating videos with InVideo AI](https://bit.ly/4b2H3aJ)
@@ -71,7 +71,7 @@ It covers every step for faceless channels focused on:
 
 Script, visuals, voice, music, captions, and timing all handled in one place.
 
-Based on user feedback, InVideo AI is one of the easiest tools for beginners who want to automate YouTube content without editing experience. :contentReference[oaicite:2]{index=2}
+Based on user feedback, InVideo AI is one of the easiest tools for beginners who want to automate YouTube content without editing experience.
 
 ## Pros and Cons
 
@@ -98,7 +98,7 @@ If you're worried about YouTube banning AI content, don't be! YouTube now explic
 
 ### 1. The Altered Content Label
 
-Since tools like Sora 2 and Veo 3.1 can create videos that look realistic, YouTube requires creators to disclose **altered or synthetic content** when uploading. YouTube’s support documentation explains how this labeling works and why it matters for trust. :contentReference[oaicite:3]{index=3}
+Since tools like Sora 2 and Veo 3.1 can create videos that look realistic, YouTube requires creators to disclose **altered or synthetic content** when uploading. YouTube’s support documentation explains how this labeling works and why it matters for trust.
 
 **The Rule:** If your AI video looks like a real person or a real place, you must mark it during upload.  
 **The Penalty:** If you try to “trick” viewers into thinking AI footage is live‑action, YouTube may limit reach or remove the video.
