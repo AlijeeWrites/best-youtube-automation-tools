@@ -56,7 +56,7 @@ Here are the features InVideo AI offers according to the official InVideo model 
 📢 **Important Update:** You might have seen news that OpenAI is shutting down its standalone Sora app and web tool. OpenAI’s Sora service has been discontinued, and many creators are moving to tools like InVideo that keep Sora within their own workflows. :contentReference[oaicite:1]{index=1}  
 Because InVideo AI is an official partner, you can still access Sora‑based generation directly inside the InVideo editor while standalone Sora tools are no longer viable in 2026.
 
-👉 **Start creating videos with InVideo AI** [https://bit.ly/4b2H3aJ]
+👉 [Start creating videos with InVideo AI](https://bit.ly/4b2H3aJ)
 
 ## Why Users Prefer It for YouTube Automation
 
@@ -222,7 +222,7 @@ After testing all seven tools on this list and reviewing thousands of user revie
 
 The other tools have strengths, but none match InVideo AI on ease of use, feature depth, and value for YouTube automation.
 
-👉 **Start creating videos with InVideo AI** [https://bit.ly/4b2H3aJ]
+👉 [Start creating videos with InVideo AI](https://bit.ly/4b2H3aJ)
 
 ## Frequently Asked Questions
 
