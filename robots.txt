@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://alijeewrites.github.io/best-youtube-automation-tools/sitemap.xml
